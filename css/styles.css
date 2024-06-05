@@ -54,7 +54,6 @@ body{
 .presentation{
     width: 80%;
     box-sizing: border-box;
-    background-color: red;
     margin:80px auto;
     padding: 10px;
     display: grid;
